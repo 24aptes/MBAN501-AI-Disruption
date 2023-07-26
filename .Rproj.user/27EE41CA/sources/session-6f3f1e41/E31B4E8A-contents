@@ -1,0 +1,84 @@
+--- 
+title: "Anxieties Surrounding AI Disruption to Industry"
+author: "Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Introduction
+
+For our group project, we are interested in understanding AI as a disruptor and the resulting anxieties. We plan to study the issue from three perspectives: executives, managers, and employees. It is a collaborative effort by Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, and Xuexin Li.
+
+For **executives**, we want to ask:
+
+- How are businesses responding to the rise of generative AI?
+- Is AI offering tangible benefits?
+- What are the risks of adopting AI systems too early or too late?
+
+For **managers**, we want to ask:
+
+- How do teams determine if AI should be used on a project?
+- If so, how is it implemented?
+- Will this impact standards for team performance?
+
+For **employees**, we want to ask:
+
+- How will the nature of work change with generative AI?
+- Are anxieties about being replaced by AI valid?
+- What does this mean for those entering the workforce, particularly Ross students?
+
+The goal of this project is to understand what AI will accomplish in the next few years. Using these guiding questions, the team will research AI's impact at all levels of a business. Our conclusions should create a holistic picture of AI's potential and the consequences of its adoption.
+
+
+# About Us
+
+We are a team of Master of Business Analytics (MBAN) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+
+- **Manav Adwani:** Manav has a business backround, 
+
+- **Sohil Apte:** Sohil is a former Computer Science student who concentrated on artifical intellgence and machine learning in his undergrad. He brings a theoretical perspective of machine learning to the group.
+
+- **Lauren Brown:** Lauren is a Psychology major in her undergrad, and is now interested in the human aspect of AI adoption. She looks at how AI will impact workers and the workplace of the future.
+
+- **Anson Lee:** Anson is cynical. He thinks AI will ruin the world.  
+
+- **Xuexin Li:** Xuexin studied Business Econ in her undergrad, and she is worried about AI taking her job. 
+
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI as a disruptor. We are excited to share our research and insights in this paper. 
+
+# Impact on Executives
+
+## Business Response
+
+## Benefits of AI
+
+## Risks of AI
+
+## Adopting AI Systems:
+
+### Too Early?
+
+### Too Late?
+
+# Impact on Managers
+
+## Should AI be used?
+
+### How should it be implemented?
+
+## AI and Standards for Team Performance
+
+# Impact on Employees
+
+## Change in the Nature of Work
+
+## AI as a Replacement
+
+## Entering the workforce
