@@ -1,5 +1,3 @@
-fig:nice-fig
-tab:nice-tab
 introduction
 about-us
 impact-on-executives
@@ -17,11 +15,3 @@ impact-on-employees
 change-in-the-nature-of-work
 ai-as-a-replacement
 entering-the-workforce
-intro
-literature
-methods
-math-example
-applications
-example-one
-example-two
-final-words

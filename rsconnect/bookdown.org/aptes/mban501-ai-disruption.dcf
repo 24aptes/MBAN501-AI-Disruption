@@ -1,0 +1,12 @@
+name: mban501-ai-disruption
+title: MBAN501-AI-Disruption
+username: aptes
+account: aptes
+server: bookdown.org
+hostUrl: https://bookdown.org/__api__
+appId: 12612
+bundleId: 86858
+url: https://bookdown.org/aptes/mban501-ai-disruption/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
