@@ -4,7 +4,7 @@ We are a team of Master of Business Analytics (MBAN) students with the goal of u
 
 - **Manav Adwani:** Manav studied commerce in his undergrad and comes from a family business background. While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team.
 
-- **Sohil Apte:** Sohil is a former Computer Science student who concentrated on artificial intelligence and machine learning in his undergrad. He brings a theoretical perspective of machine learning to the group.
+- **Sohil Apte:** Sohil is a former Computer Science student who concentrated on artificial intelligence and machine learning in his undergrad. He brings a theoretical perspective of AI to the group.
 
 - **Lauren Brown:** Lauren was a Psychology major in her undergrad, and is now interested in the human aspect of AI adoption. She looks at how AI will impact workers and the workplace of the future.
 
