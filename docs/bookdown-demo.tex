@@ -1,0 +1,193 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={AI Regulation: Impact on Competition},
+  pdfauthor={Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{AI Regulation: Impact on Competition}
+\author{Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li}
+\date{2023-07-31}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+The transformative power of Artificial Intelligence (AI) is profoundly altering the landscape of competition in the global marketplace. Beyond the day-to-day operations, AI is redefining strategic visions and changing the very foundation of competitive advantage.
+
+\textbf{The Traditional Face of Competition}
+
+Historically, competition has been largely defined by the people, processes, and technology capabilities that a company possesses. Those with the most advanced technology, the most skilled personnel, and the most efficient processes typically held the upper hand. This dynamic view of competition was a zero-sum game, with winners taking all while others strived to catch up.
+
+\textbf{The Emerging Landscape of Competition}
+
+However, the advent of AI has triggered a dramatic shift in this traditional paradigm. Competition is no longer solely about resource superiority. In fact, resource-based view of competition is being challenged as smaller companies with fewer resources are leveraging AI to carve out their own niches and compete with established giants.
+
+\textbf{Leadership in the Age of AI}
+
+The changing dynamics of competition necessitate a shift in leadership styles as well. To effectively navigate this new landscape, leaders need to shift from being excellent individual contributors to strategic visionaries who can guide their firms towards successful adaptation and innovation.
+
+\textbf{AI: Managing the Craze}
+
+AI's potential has led to a ``craze'' among businesses, with organizations across sectors rushing to adopt these technologies. However, managing this craze effectively is crucial to ensure that AI serves as a genuine competitive advantage and not just a fad.
+
+\textbf{New Strategic Questions}
+
+As we stand at this intersection of AI, regulation, and competition, numerous strategic questions arise. How can firms best leverage AI while navigating regulatory requirements? How can they maintain a competitive edge in a landscape where resource possession is not the only key to success? Answering these open strategic questions calls for exploring new organizational and strategic designs.
+
+Through the lens of AI regulation, this book aims to delve into these critical questions, offering insights on how to harness AI's power effectively and ethically in the marketplace of the future.
+
+\hypertarget{about-us}{%
+\chapter{About Us}\label{about-us}}
+
+We are a team of Master of Business Analytics (MBAN) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+
+\begin{itemize}
+\item
+  \textbf{Manav Adwani:} Manav studied commerce in his undergrad and comes from a family business background. While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team.
+\item
+  \textbf{Sohil Apte:} Sohil is a former Computer Science student who concentrated on artificial intelligence and machine learning in his undergrad. He brings a theoretical perspective of AI to the group.
+\item
+  \textbf{Lauren Brown:} Lauren was a Psychology major in her undergrad, and is now interested in the human aspect of AI adoption. She looks at how AI will impact workers and the workplace of the future.
+\item
+  \textbf{Anson Lee:} Anson is cynical about AI. He feels expectations for it are too high. He hopes to leverage his business background to provide analysis on the genuine capabilities and risks of this new tachnology.
+\item
+  \textbf{Xuexin Li:} Xuexin studied Business and Economics in her undergrad, and she is worried about AI taking her job.
+\end{itemize}
+
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI as a disruptor. We are excited to share our research and insights in this paper.
+
+\hypertarget{impact-on-executives}{%
+\chapter{Impact on Executives}\label{impact-on-executives}}
+
+\hypertarget{business-response}{%
+\section{Business Response}\label{business-response}}
+
+\hypertarget{benefits-of-ai}{%
+\section{Benefits of AI}\label{benefits-of-ai}}
+
+\hypertarget{risks-of-ai}{%
+\section{Risks of AI}\label{risks-of-ai}}
+
+\hypertarget{adopting-ai-systems}{%
+\section{Adopting AI Systems:}\label{adopting-ai-systems}}
+
+\hypertarget{too-early}{%
+\subsection{Too Early?}\label{too-early}}
+
+\hypertarget{too-late}{%
+\subsection{Too Late?}\label{too-late}}
+
+\hypertarget{impact-on-managers}{%
+\chapter{Impact on Managers}\label{impact-on-managers}}
+
+\hypertarget{should-ai-be-used}{%
+\section{Should AI be used?}\label{should-ai-be-used}}
+
+\hypertarget{how-should-it-be-implemented}{%
+\subsection{How should it be implemented?}\label{how-should-it-be-implemented}}
+
+\hypertarget{ai-and-standards-for-team-performance}{%
+\section{AI and Standards for Team Performance}\label{ai-and-standards-for-team-performance}}
+
+\hypertarget{impact-on-employees}{%
+\chapter{Impact on Employees}\label{impact-on-employees}}
+
+\hypertarget{change-in-the-nature-of-work}{%
+\section{Change in the Nature of Work}\label{change-in-the-nature-of-work}}
+
+\hypertarget{ai-as-a-replacement}{%
+\section{AI as a Replacement}\label{ai-as-a-replacement}}
+
+\hypertarget{entering-the-workforce}{%
+\section{Entering the workforce}\label{entering-the-workforce}}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}
