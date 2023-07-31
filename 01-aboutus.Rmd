@@ -1,15 +1,38 @@
-# About Us
+# About Us - MBAngels
+
 
 We are a team of Master of Business Analytics (MBAN) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
 
-- **Manav Adwani:** Manav studied commerce in his undergrad and comes from a family business background. While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team.
+## Manav Adwani
 
-- **Sohil Apte:** Sohil is a former Computer Science student who concentrated on artificial intelligence and machine learning in his undergrad. He brings a theoretical perspective of AI to the group.
+Manav studied commerce in his undergrad and comes from a family business background. While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team.
 
-- **Lauren Brown:** Lauren was a Psychology major in her undergrad, and is now interested in the human aspect of AI adoption. She looks at how AI will impact workers and the workplace of the future.
+## Sohil Apte 
 
-- **Anson Lee:** Anson Lee is originally from Poughkeepsie, New York. He graduated with a BBA from the Ross School of Business in 2023. His experience includes working in the operations departments of Goldman Sachs and Toyoda Gosei North America. He is also an avid cinephile and skier. Anson Lee is primarily concerned with how AI will be regulated to protect workers and industries.
+**Background**
+Sohil is originally from Canton Ma, and graduated from the University of Michigan in 2023. With a BS in Computer Science and a concentration on artificial intelligence and machine learning, Sohil has a robust theoretical perspective of AI, and an understanding of the intricacies of machine learning applications. 
 
-- **Xuexin Li:** Xuexin studied Business and Economics in her undergrad, and she is worried about AI taking her job. 
+**Experience**
+Sohil Apte is a former Computer Science student with practical experience as a Software/Machine Learning Engineer at a startup. His knowledge of machine learning model development and deployment, along with its business implications, offers insights into the real-world competitive impact of AI technologies.
+
+## Lauren Brown
+
+**Background**
+Lauren is from Brighton, Michigan and graduated from the school of LSA at the University of Michigan in 2023. Being a Psychology major, Lauren is interested in society’s reaction to AI and its outcomes.
+
+**Experience**
+Lauren has experience in marketing, and has developed a passion for AI regulation as she recognized the potential for AI's powerful impact on the industry alongside the need for ethical guidelines to protect consumers and ensure fair practices.
+
+## Anson Lee
+
+**Background**
+Anson Lee is originally from Poughkeepsie, New York. He graduated with a BBA from the Ross School of Business in 2023. 
+
+**Experience**
+His experience includes working in the operations departments of Goldman Sachs and Toyoda Gosei North America. He is also an avid cinephile and skier. Anson Lee is primarily concerned with how AI will be regulated to protect workers and industries.
+
+## Xuexin Li
+
+Xuexin studied Business and Economics in her undergrad, and she is worried about AI taking her job.
 
 Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI as a disruptor. We are excited to share our research and insights in this paper. 
