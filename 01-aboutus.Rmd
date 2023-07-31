@@ -1,11 +1,17 @@
-# About Us - MBAngels
+# About Us
 
 
-We are a team of Master of Business Analytics (MBAN) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+## MBAngels
+
+We are a team of Master of Business Analytics (MBAn) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
 
 ## Manav Adwani
 
-Manav studied commerce in his undergrad and comes from a family business background. While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team.
+**Background:**
+Manav studied commerce in his undergrad and comes from a family business background. After completing a relatively generic degree for his undergrad, he now wants to explore the true power of business when data analytics is applied to it. This would include learning more about the strategy side of analytics.
+
+**Experience:**
+While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team. The team can benefit from his experience in EY and his knowledge about setting up and running a successful international business as an entrepreneur.
 
 ## Sohil Apte 
 
@@ -33,6 +39,9 @@ His experience includes working in the operations departments of Goldman Sachs a
 
 ## Xuexin Li
 
-Xuexin studied Business and Economics in her undergrad, and she is worried about AI taking her job.
+**Background:**
+Xuexin is originally from Beijing, China. Xuexin studied in Business Management and Economics at UC Santa Cruz during her undergraduate years.
 
-Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI as a disruptor. We are excited to share our research and insights in this paper. 
+**Experience:** Xuexin has immersed herself in the Digital Marketing industry in China after graduation. Her experience has sparked a deep interest in exploring AI's transformative potential in reshaping marketing strategies and consumer behavior.
+
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI and the impacts it will have on comeptition and strategy. We are excited to share our research and insights in this paper. 

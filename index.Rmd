@@ -14,26 +14,8 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Introduction
 
-The transformative power of Artificial Intelligence (AI) is profoundly altering the landscape of competition in the global marketplace. Beyond the day-to-day operations, AI is redefining strategic visions and changing the very foundation of competitive advantage.
+From assisting with strategy to generating content, artificial intelligence (AI) is already influencing how businesses operate. The consulting firm Accenture projects an average profitability boost of 38% by 2035 across sixteen major industries. Additionally, AI has led to increased productivity and reduced costs, particularly in analytics, product development, and customer service. This has led many businesses to adopt AI with large firms like Google and Microsoft potentially investing billions in the technology. It is apparent that AI will provide a new arena for businesses to compete in.
 
-**The Traditional Face of Competition**
+Yet, the excitement over the benefits of AI has yielded challenges for businesses and regulators. For businesses, there are questions on what duties to assign AI. One of the causes of the ongoing actor and writer strikes is concerns over AI replacing human workers. Technology contractors in the Republic of Kenya are suing Meta for being exposed to psychologically damaging content while moderating its generative AI systems. Additionally, the exact information necessary for AI to arrive at optimal solutions is not known. Recent studies have shown there are limits to the effectiveness of pricing algorithms and that data reaches a point of diminishing returns. AI has also proven to be difficult to regulate; governments and institutions face the challenge of controlling something without knowing its full potential. The laws they establish will inevitably provide another dimension to business competition.
 
-Historically, competition has been largely defined by the people, processes, and technology capabilities that a company possesses. Those with the most advanced technology, the most skilled personnel, and the most efficient processes typically held the upper hand. This dynamic view of competition was a zero-sum game, with winners taking all while others strived to catch up.
-
-**The Emerging Landscape of Competition**
-
-However, the advent of AI has triggered a dramatic shift in this traditional paradigm. Competition is no longer solely about resource superiority. In fact, resource-based view of competition is being challenged as smaller companies with fewer resources are leveraging AI to carve out their own niches and compete with established giants.
-
-**Leadership in the Age of AI**
-
-The changing dynamics of competition necessitate a shift in leadership styles as well. To effectively navigate this new landscape, leaders need to shift from being excellent individual contributors to strategic visionaries who can guide their firms towards successful adaptation and innovation.
-
-**AI: Managing the Craze**
-
-AI's potential has led to a "craze" among businesses, with organizations across sectors rushing to adopt these technologies. However, managing this craze effectively is crucial to ensure that AI serves as a genuine competitive advantage and not just a fad.
-
-**New Strategic Questions**
-
-As we stand at this intersection of AI, regulation, and competition, numerous strategic questions arise. How can firms best leverage AI while navigating regulatory requirements? How can they maintain a competitive edge in a landscape where resource possession is not the only key to success? Answering these open strategic questions calls for exploring new organizational and strategic designs.
-
-Through the lens of AI regulation, this book aims to delve into these critical questions, offering insights on how to harness AI's power effectively and ethically in the marketplace of the future.
+As businesses adopt AI, it is crucial to consider both the benefits and challenges to best predict its impact on the competitive landscape. To what degree will businesses rely on these systems and how will their competitors respond? What industries are likely to see the most meaningful change in operations? And what does this mean for the workers within those industries? Acknowledging these questions is the key to developing a business environment that utilizes AI in an efficient, fair, and ethical manner.
