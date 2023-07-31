@@ -13,7 +13,7 @@ Manav studied commerce in his undergrad and comes from a family business backgro
 Sohil is originally from Canton Ma, and graduated from the University of Michigan in 2023. With a BS in Computer Science and a concentration on artificial intelligence and machine learning, Sohil has a robust theoretical perspective of AI, and an understanding of the intricacies of machine learning applications. 
 
 **Experience:**
-Sohil Apte is a former Computer Science student with practical experience as a Software/Machine Learning Engineer at a startup. His knowledge of machine learning model development and deployment, along with its business implications, offers insights into the real-world competitive impact of AI technologies.
+As a former Computer Science student with practical experience as a Software/Machine Learning Engineer at a startup, his knowledge of machine learning model development and deployment, along with its business implications, offers insights into the real-world competitive impact of AI technologies.
 
 ## Lauren Brown
 
