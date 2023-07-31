@@ -1,5 +1,10 @@
 introduction
-about-us
+about-us---mbangels
+manav-adwani
+sohil-apte
+lauren-brown
+anson-lee
+xuexin-li
 impact-on-executives
 business-response
 benefits-of-ai
