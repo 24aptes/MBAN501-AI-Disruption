@@ -3,7 +3,7 @@
 
 ## MBAngels
 
-We are a team of Master of Business Analytics (MBAn) students with the goal of understand how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+We are a team of Master of Business Analytics (MBAn) students with the goal of understanding how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
 
 ## Manav Adwani
 
