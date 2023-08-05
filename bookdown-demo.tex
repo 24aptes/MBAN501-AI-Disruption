@@ -1,0 +1,215 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={AI and the Evolving Competitive Landscape: Navigating Regulatory and Strategic Shifts},
+  pdfauthor={Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{AI and the Evolving Competitive Landscape: Navigating Regulatory and Strategic Shifts}
+\author{Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li}
+\date{2023-08-05}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+From assisting with strategy to generating content, artificial intelligence (AI) is already influencing how businesses operate. The consulting firm Accenture projects an average profitability boost of 38\% by 2035 across sixteen major industries. Additionally, AI has led to increased productivity and reduced costs, particularly in analytics, product development, and customer service. This has led many businesses to adopt AI with large firms like Google and Microsoft potentially investing billions in the technology. It is apparent that AI will provide a new arena for businesses to compete in.
+
+Yet, the excitement over the benefits of AI has yielded challenges for businesses and regulators. For businesses, there are questions on what duties to assign AI. One of the causes of the ongoing actor and writer strikes is concerns over AI replacing human workers. Technology contractors in the Republic of Kenya are suing Meta for being exposed to psychologically damaging content while moderating its generative AI systems. Additionally, the exact information necessary for AI to arrive at optimal solutions is not known. Recent studies have shown there are limits to the effectiveness of pricing algorithms and that data reaches a point of diminishing returns. AI has also proven to be difficult to regulate; governments and institutions face the challenge of controlling something without knowing its full potential. The laws they establish will inevitably provide another dimension to business competition.
+
+As businesses adopt AI, it is crucial to consider both the benefits and challenges to best predict its impact on the competitive landscape. To what degree will businesses rely on these systems and how will their competitors respond? What industries are likely to see the most meaningful change in operations? And what does this mean for the workers within those industries? Acknowledging these questions is the key to developing a business environment that utilizes AI in an efficient, fair, and ethical manner.
+
+\hypertarget{about-us}{%
+\chapter{About Us}\label{about-us}}
+
+\hypertarget{mbangels}{%
+\section{MBAngels}\label{mbangels}}
+
+We are a team of Master of Business Analytics (MBAn) students with the goal of understanding how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+
+\hypertarget{manav-adwani}{%
+\section{Manav Adwani}\label{manav-adwani}}
+
+\textbf{Background:}
+Manav studied commerce in his undergrad and comes from a family business background. After completing a relatively generic degree for his undergrad, he now wants to explore the true power of business when data analytics is applied to it. This would include learning more about the strategy side of analytics.
+
+\textbf{Experience:}
+While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team. The team can benefit from his experience in EY and his knowledge about setting up and running a successful international business as an entrepreneur.
+
+\hypertarget{sohil-apte}{%
+\section{Sohil Apte}\label{sohil-apte}}
+
+\textbf{Background:}
+Sohil is originally from Canton Ma, and graduated from the University of Michigan in 2023. With a BS in Computer Science and a concentration on artificial intelligence and machine learning, Sohil has a robust theoretical perspective of AI, and an understanding of the intricacies of machine learning applications.
+
+\textbf{Experience:}
+As a former Computer Science student with practical experience as a Software/Machine Learning Engineer at a startup, his knowledge of machine learning model development and deployment, along with its business implications, offers insights into the real-world competitive impact of AI technologies.
+
+\hypertarget{lauren-brown}{%
+\section{Lauren Brown}\label{lauren-brown}}
+
+\textbf{Background:}
+Lauren is from Brighton, Michigan and graduated from the school of LSA at the University of Michigan in 2023. Being a Psychology major, Lauren is interested in society's reaction to AI and its outcomes.
+
+\textbf{Experience:}
+Lauren has experience in marketing, and has developed a passion for AI regulation as she recognized the potential for AI's powerful impact on the industry alongside the need for ethical guidelines to protect consumers and ensure fair practices.
+
+\hypertarget{anson-lee}{%
+\section{Anson Lee}\label{anson-lee}}
+
+\textbf{Background:}
+Anson Lee is originally from Poughkeepsie, New York. He graduated with a BBA from the Ross School of Business in 2023.
+
+\textbf{Experience:}
+His experience includes working in the operations departments of Goldman Sachs and Toyoda Gosei North America. He is also an avid cinephile and skier. Anson Lee is primarily concerned with how AI will be regulated to protect workers and industries.
+
+\hypertarget{xuexin-li}{%
+\section{Xuexin Li}\label{xuexin-li}}
+
+\textbf{Background:}
+Xuexin is originally from Beijing, China. Xuexin studied in Business Management and Economics at UC Santa Cruz during her undergraduate years.
+
+\textbf{Experience:} Xuexin has immersed herself in the Digital Marketing industry in China after graduation. Her experience has sparked a deep interest in exploring AI's transformative potential in reshaping marketing strategies and consumer behavior.
+
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI and the impacts it will have on comeptition and strategy. We are excited to share our research and insights in this paper.
+
+\hypertarget{the-rise-of-ai-in-business}{%
+\chapter{The Rise of AI in Business}\label{the-rise-of-ai-in-business}}
+
+\hypertarget{xuexin-likes-the-simpsons.}{%
+\section{Xuexin likes the Simpsons.}\label{xuexin-likes-the-simpsons.}}
+
+\hypertarget{the-influence-of-ai-on-business-operations}{%
+\section{The Influence of AI on Business Operations}\label{the-influence-of-ai-on-business-operations}}
+
+\hypertarget{the-potential-of-ai-productivity-and-profitability}{%
+\section{The Potential of AI: Productivity and Profitability}\label{the-potential-of-ai-productivity-and-profitability}}
+
+\hypertarget{major-players-ai-investments-by-google-and-microsoft}{%
+\section{Major Players: AI Investments by Google and Microsoft}\label{major-players-ai-investments-by-google-and-microsoft}}
+
+\hypertarget{ai-and-competition}{%
+\chapter{AI and Competition}\label{ai-and-competition}}
+
+\hypertarget{amazon-case-study}{%
+\section{Amazon Case Study}\label{amazon-case-study}}
+
+\hypertarget{streaming-service-recommendation}{%
+\section{Streaming Service Recommendation}\label{streaming-service-recommendation}}
+
+\hypertarget{ais-impact-on-workers}{%
+\chapter{AI's Impact on Workers}\label{ais-impact-on-workers}}
+
+\hypertarget{impact-on-the-ross-student}{%
+\section{Impact on the Ross Student}\label{impact-on-the-ross-student}}
+
+\hypertarget{regulation-of-ai}{%
+\chapter{Regulation of AI}\label{regulation-of-ai}}
+
+\hypertarget{current-regulation}{%
+\section{Current regulation}\label{current-regulation}}
+
+\hypertarget{proposed-regulation}{%
+\section{Proposed regulation}\label{proposed-regulation}}
+
+\hypertarget{potential-future-uses-for-competition-and-future-outlook}{%
+\chapter{Potential future uses for competition and future outlook}\label{potential-future-uses-for-competition-and-future-outlook}}
+
+\hypertarget{quotes-from-someone-elses-predictions}{%
+\section{Quotes From Someone Else's Predictions}\label{quotes-from-someone-elses-predictions}}
+
+\hypertarget{manav-is-late}{%
+\section{Manav is late!}\label{manav-is-late}}
+
+\hypertarget{conclusion}{%
+\chapter{Conclusion}\label{conclusion}}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

@@ -1,0 +1,109 @@
+--- 
+title: "AI and the Evolving Competitive Landscape: Navigating Regulatory and Strategic Shifts"
+author: "Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Introduction
+
+From assisting with strategy to generating content, artificial intelligence (AI) is already influencing how businesses operate. The consulting firm Accenture projects an average profitability boost of 38% by 2035 across sixteen major industries. Additionally, AI has led to increased productivity and reduced costs, particularly in analytics, product development, and customer service. This has led many businesses to adopt AI with large firms like Google and Microsoft potentially investing billions in the technology. It is apparent that AI will provide a new arena for businesses to compete in.
+
+Yet, the excitement over the benefits of AI has yielded challenges for businesses and regulators. For businesses, there are questions on what duties to assign AI. One of the causes of the ongoing actor and writer strikes is concerns over AI replacing human workers. Technology contractors in the Republic of Kenya are suing Meta for being exposed to psychologically damaging content while moderating its generative AI systems. Additionally, the exact information necessary for AI to arrive at optimal solutions is not known. Recent studies have shown there are limits to the effectiveness of pricing algorithms and that data reaches a point of diminishing returns. AI has also proven to be difficult to regulate; governments and institutions face the challenge of controlling something without knowing its full potential. The laws they establish will inevitably provide another dimension to business competition.
+
+As businesses adopt AI, it is crucial to consider both the benefits and challenges to best predict its impact on the competitive landscape. To what degree will businesses rely on these systems and how will their competitors respond? What industries are likely to see the most meaningful change in operations? And what does this mean for the workers within those industries? Acknowledging these questions is the key to developing a business environment that utilizes AI in an efficient, fair, and ethical manner.
+
+<!--chapter:end:index.Rmd-->
+
+# About Us
+
+
+## MBAngels
+
+We are a team of Master of Business Analytics (MBAn) students with the goal of understanding how the new age of generative artificial intelligence (AI) will impact the world, and specifcally, impact our cohort as analytics students. By combining our wide array of backrounds, diverse skillsets, and range of persepctives, we hope to compile a robust report that captures the impact AI will have on all levels of industry.
+
+## Manav Adwani
+
+**Background:**
+Manav studied commerce in his undergrad and comes from a family business background. After completing a relatively generic degree for his undergrad, he now wants to explore the true power of business when data analytics is applied to it. This would include learning more about the strategy side of analytics.
+
+**Experience:**
+While he is enthusiastic about learning the technical aspect, he hopes to provide an in depth business perspective to the team. The team can benefit from his experience in EY and his knowledge about setting up and running a successful international business as an entrepreneur.
+
+## Sohil Apte 
+
+**Background:**
+Sohil is originally from Canton Ma, and graduated from the University of Michigan in 2023. With a BS in Computer Science and a concentration on artificial intelligence and machine learning, Sohil has a robust theoretical perspective of AI, and an understanding of the intricacies of machine learning applications. 
+
+**Experience:**
+As a former Computer Science student with practical experience as a Software/Machine Learning Engineer at a startup, his knowledge of machine learning model development and deployment, along with its business implications, offers insights into the real-world competitive impact of AI technologies.
+
+## Lauren Brown
+
+**Background:**
+Lauren is from Brighton, Michigan and graduated from the school of LSA at the University of Michigan in 2023. Being a Psychology major, Lauren is interested in society’s reaction to AI and its outcomes.
+
+**Experience:**
+Lauren has experience in marketing, and has developed a passion for AI regulation as she recognized the potential for AI's powerful impact on the industry alongside the need for ethical guidelines to protect consumers and ensure fair practices.
+
+## Anson Lee
+
+**Background:**
+Anson Lee is originally from Poughkeepsie, New York. He graduated with a BBA from the Ross School of Business in 2023. 
+
+**Experience:**
+His experience includes working in the operations departments of Goldman Sachs and Toyoda Gosei North America. He is also an avid cinephile and skier. Anson Lee is primarily concerned with how AI will be regulated to protect workers and industries.
+
+## Xuexin Li
+
+**Background:**
+Xuexin is originally from Beijing, China. Xuexin studied in Business Management and Economics at UC Santa Cruz during her undergraduate years.
+
+**Experience:** Xuexin has immersed herself in the Digital Marketing industry in China after graduation. Her experience has sparked a deep interest in exploring AI's transformative potential in reshaping marketing strategies and consumer behavior.
+
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI and the impacts it will have on comeptition and strategy. We are excited to share our research and insights in this paper. 
+
+<!--chapter:end:01-aboutus.Rmd-->
+
+# The Rise of AI in Business
+## Xuexin likes the Simpsons.
+## The Influence of AI on Business Operations
+## The Potential of AI: Productivity and Profitability
+## Major Players: AI Investments by Google and Microsoft
+
+<!--chapter:end:02-rise-of-ai.Rmd-->
+
+# AI and Competition
+## Amazon Case Study
+## Streaming Service Recommendation
+
+<!--chapter:end:03-ai-and-competition.Rmd-->
+
+# AI’s Impact on Workers
+## Impact on the Ross Student
+
+<!--chapter:end:04-workers.Rmd-->
+
+# Regulation of AI
+## Current regulation
+## Proposed regulation
+
+<!--chapter:end:05-regulation.Rmd-->
+
+# Potential future uses for competition and future outlook
+## Quotes From Someone Else's Predictions
+## Manav is late!
+
+<!--chapter:end:06-future-outlook.Rmd-->
+
+# Conclusion 
+
+<!--chapter:end:08-conclusion.Rmd-->
+
