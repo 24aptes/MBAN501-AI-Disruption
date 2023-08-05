@@ -20,7 +20,4 @@ current-regulation
 proposed-regulation
 potential-future-uses-for-competition-and-future-outlook
 quotes-from-someone-elses-predictions
-toward-an-ai-integrated-business-environment
-balancing-efficiency-fairness-and-ethics-in-ai-adoption
-future-outlook-and-predictions
 conclusion
