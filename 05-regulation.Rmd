@@ -1,3 +1,6 @@
 # Regulation of AI
+
+test!
+
 ## Current regulation
 ## Proposed regulation

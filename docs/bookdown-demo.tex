@@ -5,19 +5,16 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
+\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
+  \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -78,7 +75,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
+\urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={AI and the Evolving Competitive Landscape: Navigating Regulatory and Strategic Shifts},
   pdfauthor={Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li},
@@ -87,7 +84,7 @@
 
 \title{AI and the Evolving Competitive Landscape: Navigating Regulatory and Strategic Shifts}
 \author{Manav Adwani, Sohil Apte, Lauren Brown, Anson Lee, Xuexin Li}
-\date{2023-08-12}
+\date{2023-08-15}
 
 \begin{document}
 \maketitle
@@ -196,6 +193,8 @@ Please let this be a formal apology to Sohil and everyone else in the group for 
 
 \hypertarget{regulation-of-ai}{%
 \chapter{Regulation of AI}\label{regulation-of-ai}}
+
+test!
 
 \hypertarget{current-regulation}{%
 \section{Current regulation}\label{current-regulation}}
