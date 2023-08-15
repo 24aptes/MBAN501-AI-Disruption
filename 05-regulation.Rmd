@@ -1,6 +1,6 @@
 # Regulation of AI
 
-test!
+AI technology has been making major advances in a very small amount of time with very new A.I. systems, such as ChatGpt, being used by over 40% of college students in the United States. Companies and organizations all around the world are increasing their use of A.I. to gain a competitive advantage in their respective industries. This race of A.I. technology is putting focus on what regulation needs to be developed to control these advances. Big names in the tech industry such as Steve Wozniak, Elon Musk, and politicians such as Andrew Yang, have signed an open letter asking for AI experimentation to be paused for at least 6 months to develop new regulations. While this open letter has not led to any action, it does bring attention to the fact that governments are going to have to focus a large part of their future legislation on A.I. regulation. A.I. systems and A.I. regulations are global and interindustry issues. There are so many different pieces, in different industries, and they’re all moving at different paces, which makes it difficult to legislate it.
 
 ## Current regulation
 ## Proposed regulation
