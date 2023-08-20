@@ -1,3 +1,0 @@
-# AI and Competition
-## Amazon Case Study
-## Streaming Service Recommendation
