@@ -1,6 +1,6 @@
 # The Value of a Ross MBAn
 
-![RossStudents](./RossStudentsPhoto.png)
+![](images/RossStudentsPhoto.jpg)
 
 ## Blending technical skills with business skills
 As AI changes the business landscape, Master of Business Analytics (MBAn) students, from renowned institutions like the Ross School of Business, will emerge as key players. The MBAn curriculum prepares students with both the technical skills and business acumen to lead in AI-driven business domains. Executives are finding themselves facing a set of realities including untapped opportunity and existential risks (Ransbotham, 2019). As businesses invest in AI-driven operations, students with a strong understanding of technology, strategy, and leadership will be in high demand for executive roles with AI decision making.

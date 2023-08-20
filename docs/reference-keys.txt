@@ -31,4 +31,4 @@ culture-evolution
 alignment-with-core-objectives
 consistent-evaluation
 conclusion
-work-cited
+references

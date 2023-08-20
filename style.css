@@ -12,3 +12,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.custom-logo {
+  max-width: 300px;
+  max-height: 200px;
+}
