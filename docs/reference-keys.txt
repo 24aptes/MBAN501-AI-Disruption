@@ -12,6 +12,7 @@ competitive-ai-across-industries
 media
 tech
 retail
+applications-of-ai
 customer-service
 marketing
 talent-management
