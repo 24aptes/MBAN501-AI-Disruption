@@ -105,3 +105,7 @@ Amazon uses artificial intelligence from the moment a customer gets on its websi
 Another area where Amazon used widely available data to cater to customers is the development of its own personal assistant, Alexa. Using algorithms such as voice recognition and natural language processing, it first developed Echo, which is a smart home device that shares information through natural conversation. Developing Alexa was a step forward which helped Amazon use natural conversation throughout its platforms, including streaming and music services.
 
 ### Starbucks:
+
+Starbucks is the third largest fast food chain in the entire world and is spread over 30,000 locations (V K, 2022). Starbucks started its AI program as late as 2018 when it started to harvest the data made available through the 90 million customer transactions daily throughout the globe.
+ 
+Using this massive bank of data, Starbucks made better decisions in sales and overall direction of the corporation. A specific use-case was improving their direct marketing technologies such as targeted advertising and personalized drink recommendations. With the data of 13 million customers in its loyalty program, Starbucks began offering customized drinks according to customer preferences (V K, 2022). They also used the widely available data to recommend preferred drinks to customers who have never visited a Starbucks before. Another use-case of AI at Starbucks is the availability of a virtual barista to facilitate the ordering experience.
