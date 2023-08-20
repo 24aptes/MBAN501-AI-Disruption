@@ -1,2 +1,40 @@
-# AI’s Impact on Workers
-## Impact on the Ross Student
+# The Value of a Ross MBAn
+
+## Blending technical skills with business skills
+As AI changes the business landscape, Master of Business Analytics (MBAn) students, from renowned institutions like the Ross School of Business, will emerge as key players. The MBAn curriculum prepares students with both the technical skills and business acumen to lead in AI-driven business domains. Executives are finding themselves facing a set of realities including untapped opportunity and existential risks (Ransbotham, 2019). As businesses invest in AI-driven operations, students with a strong understanding of technology, strategy, and leadership will be in high demand for executive roles with AI decision making.
+
+## Meeting the demand for AI-proficient leaders and strategists
+The market is craving strong decision-makers with knowledge bases in AI. Although there is a current surplus of technical leaders like software engineers and data scientists, the biggest challenge is finding people with business expertise to contribute to AI strategy. After all, companies cannot solve strategy problems with AI without people who truly understand the underlying business goals at hand. (Yuval, 2023)
+
+## The AI Landscape in Corporate Strategy
+In the current AI landscape, success is derived from harnessing its vast potential to enhance efficiency, foster innovation, and secure a competitive advantage. These advantages can only be realized if executives adopt and scale AI practices in their company in an effective manner. 
+
+## Cultural and Structural Obstacles to AI Integration
+
+The integration of artificial intelligence into the corporate ecosystem is a compelling value proposition for any company. However, only “8% of firms engage in core practices that support widespread adoption of AI and advanced analytics (Harvard Business Review, 2020)”. Just “12% of the executives and senior executives have included AI initiatives in their corporate strategies.” (Mostafa, 2023) Even with so much to gain from the integration of AI, many organizations find themselves faced with cultural and structural barriers.
+
+### Misperceptions
+The polarizing nature of the discourse surrounding AI has led to hesitancy in its implementation and adoption. When executives think about automating strategy, many are looking too far ahead, focusing on how AI would completely replace business leaders and their decision-making. Shifting their focus to the use of AI as “building blocks” of their corporate strategy could significantly improve their business outcomes (Yuval, 2023). Another misconception is the expectation of instant rewards from AI as simply a plug-and-play solution. Even when AI is adopted as a business strategy, it has a constrained use case, which limits its versatility and curtails its ultimate potential (Harvard Business Review, 2020).
+
+
+### Cultural Reluctance
+The nuances of human behavior play critical roles in AI's corporate integration. Humans are resistant to change by nature, especially when it disrupts long-established tried and true norms. Changes in a business setting are no exception. Many established organizations operate on top-down decision-making. Transitioning to a model where decisions are reinforced by AI represents an upending structural and cultural shift from intuition-based CEO decision-making to a flattened organizational structure backed by data-reinforced conclusions. (Mostafa, 2023).
+
+Overlaying these challenges is the undercurrent of the fear of the unknown. There is anxiety over job losses and reduced human significance. McKinsey highlights the issue directly: “The big challenge is finding strategists to contribute to the AI effort. You are asking people to get involved in an initiative that may make their jobs less important (Yuval, 2023).”
+
+## Overcoming Barriers to Entry
+Incorporating artificial intelligence into corporate strategy requires a holistic approach. There are key considerations necessary to ensure a smooth transition into an AI-integrated business.
+
+### Enhanced Human-AI Interactions
+The incorporation of AI into the business world is a symbiotic relationship that demands continual human feedback for improvement (Degnan, 2023). Companies must also embrace diverse teams with varying skills and perspectives to ensure that AI solutions cater to a wide span of organizational needs. After all, the only way to maximize the potential of a data-driven technology like AI is to accommodate it with many diverse inputs (Harvard Business Review, 2020).
+
+### Culture Evolution
+Effective implementation of AI in businesses means transitioning the corporate culture to embrace AI rather than just accepting it (Degnan, 2023). In addition to a deliberate reception of AI, an organization's attitude towards its deployment should be dynamic and iterative. By valuing continuous feedback and experimentation, organizations can develop robust AI solutions that can operate at scale. Notably, almost 90% of companies successful in scaling AI practices allocated more than half of their analytics budgets to adoption-centric activities - emphasizing the importance of company-wide cultural shifts (Harvard Business Review, 2020). 
+
+### Alignment with Core Objectives
+AI should resonate with a company's mission and objectives. For example, Southwest Airlines emphasizes low-cost airfare. Their AI strategies amplify those core beliefs and provide customer value consistent with the company's values (Degnan, 2023). 
+
+### Consistent Evaluation
+Successful AI integration requires consistent performance monitoring. Companies should develop a robust set of Key Performance Indicators (KPIs) to measure how closely the AIs contributions continue to align with core objectives and provide tangible value (Degnan, 2023).
+
+By addressing these tenets of AI strategy, organizations can pave the way to seamless integration and success - with MBAn students leading the way. 
