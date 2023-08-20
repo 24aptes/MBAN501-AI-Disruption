@@ -44,4 +44,11 @@ Xuexin is originally from Beijing, China. Xuexin studied in Business Management 
 
 **Experience:** Xuexin has immersed herself in the Digital Marketing industry in China after graduation. Her experience has sparked a deep interest in exploring AI's transformative potential in reshaping marketing strategies and consumer behavior.
 
-Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI and the impacts it will have on comeptition and strategy. We are excited to share our research and insights in this paper. 
+Our combined skills and shared passion for the topic make us uniquely equipped to tackle the questions surrounding AI and the impacts it will have on comeptition and strategy. We are excited to share our research and insights in this paper.
+
+## Team Reflection
+
+The culture of MBAngels evolved significantly over the course of the project. In the initial stages, our team was not a strong one, and our lack of coordination was apparent on our first in-class presentation. The disjointed nature of the assignment made it apparent we were not truly working as a team, and Professor Domagala made note of this when giving feedback. As a result, we decided to devote our next meeting to serious team-building to ensure our final project would be of a higher quality. Our first step was to ensure all members had a basic understanding of how to push to Git, so that we could all participate in writing the report. This was a long and frustrating process as we encountered numerous technical issues along the way, but eventually we were all able to make necessary changes to the website. 
+
+Additionally, this meeting helped us build a culture and though not the intention of the meeting, helped establish psychological safety. By helping one another with RStudio, our team established norms for requesting and receiving help. MBAngels welcomed the statement “I don’t know how to solve this problem; I need help,” because it helped start discussions and ensured all members contributed to the overall progress. Our subsequent meetings also saw greater participation over time. To contrast with our initial, uncoordinated presentation, the final stages of this project saw our team read each section aloud as a group to check for errors, inconsistencies, or areas of improvement. The result has been a project that we are truly proud of, and we hope that Professor Domagala and Professor Kumar note our evolution as a team.
+
