@@ -98,4 +98,10 @@ Another use-case of AI at Alibaba is its customer service chatbot, AliMe. To she
 
 ### Amazon:
 
+Amazon is a multinational corporation with several arms including an e-commerce website, a streaming service, and a cloud service. In 2014, Amazon moved towards using deep learning for recommendation engines. This marked the advancement of Amazon towards AI, which is now deeply ingrained in its DNA.
+ 
+Amazon uses artificial intelligence from the moment a customer gets on its website. Talking about the e-commerce shopping arm, Amazon uses consumer data from several sources to customize the landing page of its website for each of the 300 million users that it caters to (V K, 2022). Using this algorithm, it displays those products that customers are most likely to buy.
+ 
+Another area where Amazon used widely available data to cater to customers is the development of its own personal assistant, Alexa. Using algorithms such as voice recognition and natural language processing, it first developed Echo, which is a smart home device that shares information through natural conversation. Developing Alexa was a step forward which helped Amazon use natural conversation throughout its platforms, including streaming and music services.
+
 ### Starbucks:
