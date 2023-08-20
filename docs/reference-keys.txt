@@ -12,6 +12,13 @@ competitive-ai-across-industries
 media
 tech
 retail
+customer-service
+marketing
+talent-management
+major-players-use-of-ai
+alibaba
+amazon
+starbucks
 regulation-of-ai
 current-regulation
 proposed-regulation
@@ -32,6 +39,3 @@ alignment-with-core-objectives
 consistent-evaluation
 conclusion
 references
-customer-service
-marketing
-talent-management
