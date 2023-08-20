@@ -6,7 +6,6 @@ sohil-apte
 lauren-brown
 anson-lee
 xuexin-li
-competition-and-regulation-in-the-ai-era
 impact-of-ai-on-the-competitive-landscape
 feedback-loop
 competitive-ai-across-industries
@@ -33,10 +32,3 @@ alignment-with-core-objectives
 consistent-evaluation
 conclusion
 work-cited
-competition-and-regulation-in-the-ai-era-1
-impact-of-ai-on-the-competitive-landscape-1
-feedback-loop-1
-competitive-ai-across-industries-1
-media-1
-tech-1
-retail-1
