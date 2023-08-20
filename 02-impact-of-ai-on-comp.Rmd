@@ -31,8 +31,9 @@ This system is especially important in e-commerce due to the previously mentione
 One of the most effective ways retail businesses deploy AI is by upselling and cross-selling. These AI systems also have the benefit of being relatively easy to implement. In e-commerce, algorithms can be used to detect a competitor’s price and adjust one’s own accordingly (Hamer, Elliot, Hare, 2023). AI pricing is not limited only to online retailers though. Walmart has been testing robots that scan shelves to calculate stock and determine prices accordingly. In addition to serving as an example of price management, this system also shows how AI can limit the burden of work on employees who are now free to focus more on curating the in-store customer experience (Global Artificial Intelligence, 2019).
 
 ![AI Use-Case Prism for Short Life Cycle Retail, 2022](images/retailimage.png)
-##Applications of AI
+## Applications of AI
 
+## Customer Service
 “AI can help to improve customer service by automating routine tasks and providing personalized recommendations.”
 Satya Nadella, CEO of Microsoft
 
